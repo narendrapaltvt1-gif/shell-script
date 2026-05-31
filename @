@@ -1,0 +1,6 @@
+#!/bin/bash
+table=$1
+for( num=1; num<=10; num++); do
+	result=$((table * num)
+	echo " $table x $num = $result"
+done
