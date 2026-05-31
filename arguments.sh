@@ -6,4 +6,5 @@ echo "Hello Dosto second ka name:- "$1
 echo "Hello Dosto file ka name:- "$2
 echo "Hello Dosto file ka name:- "$#
 echo "Hello Dosto file ka name:- "$@
+echo " practice start"
 
